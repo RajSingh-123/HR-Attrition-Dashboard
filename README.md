@@ -53,10 +53,10 @@ Understand employee attrition by visualizing HR data to uncover key patterns lik
 ## 📷 Dashboard Screenshots
 
 ### 📌 Main Dashboard View
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ### 📘 Summary Page
-![Summary](Images/summary.png)
+![Summary](Images/Summary.png)
 
 ---
 
