@@ -1,6 +1,16 @@
 
 # 📊 HR Attrition and Retention Dashboard – 2025
 
+## 📌 Contents
+- [Objective](#objective)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)
+- [Dashboard Highlights](#dashboard-highlights)
+- [Screenshots](#screenshots)
+- [About Me](#about-me)
+
+
+
 This Power BI dashboard analyzes employee attrition patterns by department, job role, tenure, age group, and gender to help HR identify trends and improve retention strategies.
 
 ---
@@ -80,5 +90,7 @@ HR-Attrition-Dashboard/
 5. Publish your version to Power BI service or share `.pbix`.
 
 ---
+## 📄 License
+MIT License – feel free to fork and adapt!
 
 ⭐ If you found this helpful, feel free to fork or star this repo!
